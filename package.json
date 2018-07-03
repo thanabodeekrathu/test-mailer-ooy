@@ -1,0 +1,5 @@
+{
+  "name": "mailer_devise_pg",
+  "private": true,
+  "dependencies": {}
+}
